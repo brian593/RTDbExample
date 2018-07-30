@@ -11,7 +11,7 @@ namespace RTDbExample
 		{
 			InitializeComponent();
 
-			MainPage = new MainPage();
+			MainPage = new Views.ListPage();
 		}
 
 		protected override void OnStart ()
